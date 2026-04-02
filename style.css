@@ -16,7 +16,7 @@ body{
 }
 
 .menu{
-    background-color:417aa8;
+    background-color:#417aa8;
     height:50px;
     line-height:50px;
     position:relative;
@@ -43,7 +43,7 @@ body{
 }
 
 .menu ul li a:hover {
-    background-color:#4b88bb
+    background-color:#4b88bb;
     display:block;
 }
 
@@ -68,7 +68,7 @@ body{
     width:70%;
     float:left;
     margin:auto;
-    background:#fff;
+    background:#f3f3;
     height:420px;
 }
 
@@ -76,7 +76,7 @@ body{
     width:30%;
     float:left;
     margin:auto;
-    background:#fff;
+    background:#f3f3
     height:420px;
 }
 
