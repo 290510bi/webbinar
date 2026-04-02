@@ -57,7 +57,7 @@ body{
 }
 
 .border{
-    border:2px sold #4887b9;
+    border:2px solid #4887b9;
     margin-top:1pc;
     padding-bottom:1pc;
     padding-left:2pc;
@@ -91,7 +91,7 @@ body{
     line-height:40px;
     background:#417aa8;
     color:#fff;
-    margin-bottom; 1pc;
+    margin-bottom: 1pc;
 }
 
 
