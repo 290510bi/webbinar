@@ -52,7 +52,7 @@ body{
     margin:auto;
     height:420px;
     padding:0.1px;
-    background:fff;
+    background:#fff;
     color:#333;
 }
 
@@ -68,7 +68,7 @@ body{
     width:70%;
     float:left;
     margin:auto;
-    background:fff;
+    background:#fff;
     height:420px;
 }
 
@@ -76,7 +76,7 @@ body{
     width:30%;
     float:left;
     margin:auto;
-    background:fff;
+    background:#fff;
     height:420px;
 }
 
@@ -89,7 +89,7 @@ body{
     margin:auto;
     height:40px;
     line-height:40px;
-    background:fff;
-    color:fff;
+    background:#417aa8;
+    color:#fff;
 }
     
