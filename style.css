@@ -2,7 +2,7 @@ body{
     background:#d4fffe;
     color:#333;
     width:100%;
-    font-family:Times New Roman, Times, serif;
+    font-family:Times New Roman, serif;
     margin:0 auto;
 }
 
@@ -56,15 +56,11 @@ body{
     color:#333;
 }
 
-.konten p {
-    font-weight: normal;
-}
-
 .border {
     border:2px solid #4887b9;
     margin-top:1pc;
     padding-bottom:1pc;
-    padding-left:3pc;
+    padding-left:2pc;
     padding-right:2pc;
 }
 
